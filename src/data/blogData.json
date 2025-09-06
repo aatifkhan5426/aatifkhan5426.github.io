@@ -1,0 +1,49 @@
+
+
+  [
+    {
+        "id": 1,
+        "title": "Getting Started with Python: The Beginner's Power Language",
+        "slug": "/blogs/python-intro",
+        "date": "2025-04-11",
+        "excerpt": "Discover why Python is the go-to language for beginners, data science, and automation in modern development.",
+        "image": "./src/assets/profile1.jpg",
+        "author": "Emily Carter",
+        "content": "Python is a high-level, interpreted programming language known for its simplicity and readability. It's widely used across industries—from web development and data analysis to AI and automation—making it one of the most versatile languages you can learn today.\n\nIts clean syntax mirrors everyday English, making it perfect for beginners. Python supports multiple programming paradigms including procedural, object-oriented, and functional programming. Popular frameworks like Django (for web apps), Pandas (for data manipulation), and TensorFlow (for machine learning) are all part of the Python ecosystem.\n\nWhether you're automating a task, building a website, or diving into data science, Python provides the tools and community support to help you succeed. If you're just starting out in programming, Python is the perfect first step."
+      },
+      
+      {
+        "id": 2,
+        "title": "Understanding JavaScript: The Language of the Web",
+        "slug": "/blogs/javascript-basics",
+        "date": "2025-04-12",
+        "excerpt": "Learn why JavaScript is essential for modern web development and how it powers interactive websites.",
+        "image": "./src/assets/profile1.jpg",
+        "author": "Liam Nguyen",
+        "content": "JavaScript is the backbone of interactivity on the web. As a lightweight, interpreted language, it's used by nearly every website to enhance user experience through dynamic content, animations, and seamless navigation.\n\nFrom manipulating the DOM to handling events and fetching data asynchronously (with AJAX or Fetch API), JavaScript brings static HTML pages to life. It works hand-in-hand with HTML and CSS, and is supported by every modern browser without the need for plugins.\n\nJavaScript has grown far beyond the browser. With Node.js, you can write server-side code using the same language. Frontend libraries like React, Vue, and Angular have made it easier than ever to build complex interfaces efficiently.\n\nIf you're aiming for a career in frontend or full-stack development, mastering JavaScript is non-negotiable. It's the language of the web, and it's here to stay."
+      },
+      
+      {
+        "id": 3,
+        "title": "Mastering Python Exception Handling: Writing Robust Code",
+        "slug": "/blogs/python-exceptions",
+        "date": "2025-04-13",
+        "excerpt": "Handle errors like a pro with Python's try-except blocks, custom exceptions, and best practices.",
+        "image": "./src/assets/profile1.jpg",
+        "author": "Sophie Bennett",
+        "content": "Errors are inevitable in programming, but how you handle them defines the reliability of your code. In Python, exception handling is done using the try-except block, allowing you to catch errors and respond gracefully instead of crashing your program.\n\nYou can catch specific exceptions like `ZeroDivisionError`, `ValueError`, or use a general `Exception` class for broader coverage. Using `finally` ensures certain code runs no matter what, such as closing files or releasing resources.\n\nCreating custom exceptions in Python can make your code more readable and maintainable. Just inherit from the `Exception` class and define your custom logic.\n\nGood exception handling improves user experience, aids debugging, and is critical for production-level applications. Always aim to catch only what you can handle, and log unexpected behavior for review."
+      },
+      {
+        "id": 4,
+        "title": "Object-Oriented Programming in Python: Classes, Objects, and More",
+        "slug": "/blogs/python-oop",
+        "date": "2025-04-14",
+        "excerpt": "Learn how Python uses object-oriented programming to structure code using classes, objects, inheritance, and encapsulation.",
+        "image": "./src/assets/profile1.jpg",
+        "author": "Daniel Morgan",
+        "content": "Object-Oriented Programming (OOP) is a programming paradigm that organizes code into objects—bundles of data and behavior. Python supports OOP with features like classes, objects, inheritance, encapsulation, and polymorphism.\n\nA class is like a blueprint for creating objects. Each object, or instance, can hold its own state and behavior defined by methods. Python uses `__init__` as a constructor to initialize object properties when it's created.\n\nInheritance allows a class to derive properties and methods from another class, promoting code reusability. Encapsulation hides the internal state of an object, making code cleaner and more secure.\n\nOOP helps you write modular, reusable, and scalable code. Whether you're building a simple app or a complex system, understanding these principles will improve your software design and architecture."
+      }
+      
+  ]
+  
+  
